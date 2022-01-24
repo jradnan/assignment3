@@ -1,0 +1,77 @@
+
+.plan{
+    color: #3F87F5;
+}
+.limited{
+    color: #848199;
+    
+}
+.font{
+    background-color: #EDECF9;
+    padding: 7px 8px;
+    color: #5243C2;
+}
+.business{
+    color: #231D4F;
+}
+.event{
+    color: #848199;
+}
+.button-chose a{
+    text-decoration: none;
+    color: #3F87F5;
+    font-size: 20px;
+    background-color: white;
+    padding: 10px 60px;
+    border-radius:25px;
+    
+}
+.background-2{
+    padding-top: 130px;
+}
+.another-background{
+    background-color: #3F87F5;
+    border-radius: 25px;
+    position: relative;
+    bottom:100px;
+    right: 40px;
+    
+
+}
+.another-background h3{
+    color: white;
+}
+.another-background h4{
+    color: white;
+}
+.another-background h5{
+    color: white;
+}
+.another-background i{
+    background-color: #5293F6;
+    color: white;
+}
+.another-background p{
+    color: white;
+}
+.button-chose2{
+    padding-right: -20px;
+}
+.wedding-plus{
+    margin-left: 20px;
+}
+.hot-btn{
+    position: relative;
+    bottom:480px;
+    left: 270px;
+}
+.footer-p{
+    color: #D9DBE1;
+}
+.footer-img img{
+    margin-left: -12px;
+}
+.footer-section{
+    position: relative;
+    left: 480px;
+}
